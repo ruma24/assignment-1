@@ -1,0 +1,157 @@
+<html>
+<head>
+<style>
+#c
+{color:pink;
+background-color:blue;
+}
+</style>
+</head>
+<body>
+<center><h1>INFORMATION TECHNOLOGY (3<sup>RD</sup>YEAR) TIME TABLE</h1></center>
+<table align="center" border="1">
+<th><h1> DAY/PERIOD </h1></th>
+<th><h1> 1 </h1></th>
+<th><h1> 2 </h1></th>
+<th><h1> BREAK </h1></th>
+<th><h1> 3 </h1></th>
+<th><h1> 4 </h1></th>
+<th><h1> 5 </h1></th>
+<th><h1> LUNCH </h1></th>
+<th><h1> 6 </h1></th>
+<th><h1> 7 </h1></th>
+<tr>
+<td><h1>Tuesday</h1></td>
+<td bgcolor="yellow">IT6501</td>
+<td id="c"><-</td>
+<td>BREAK</td>
+<td id="c">IT6512/IT6513</td>
+<td id="c">-></td>
+<td bgcolor="pink">CS6551</td>
+<td>LUNCH</td>
+<td bgcolor="orange">IT6502</td>
+<td bgcolor="green">IT6503</td>
+</tr>
+<tr>
+<td><h1>Wednesday</h1></td>
+<td bgcolor="orange">IT6502</td>
+<td bgcolor="brown">CS6502</td>
+<td>BREAK</td>
+<td bgcolor="red">EC6801</td>
+<td bgcolor="brown">CS6502</td>
+<td id="c"><-</td>
+<td>LUNCH</td>
+<td id="c">IT6511/IT6512</td>
+<td id="c">-></td>
+</tr>
+<tr>
+<td><h1>Thursday</h1></td>
+<td bgcolor="red">EC6801</td>
+<td bgcolor="purple">LIB</td>
+<td>BREAK</td>
+<td bgcolor="pink">CS6551</td>
+<td bgcolor="green">IT6503</td>
+<td bgcolor="yellow">IT6501</td>
+<td>LUNCH</td>
+<td bgcolor="violet">VAP</td>
+<td bgcolor="violet">VAP</td>
+</tr>
+<tr>
+<td><h1>Friday</h1></td>
+<td bgcolor="brown">CS6502</td>
+<td bgcolor="pink">CS6551</td>
+<td>BREAK</td>
+<td bgcolor="red">EC6801</td>
+<td bgcolor="yellow">IT6501</td>
+<td id="c"><-</td>
+<td>LUNCH</td>
+<td id="c">IT6511/IT6513</td>
+<td id="c">-></td>
+</tr>
+<tr>
+<td><h1>Saturday</h1></td>
+<td bgcolor="green">IT6503</td>
+<td bgcolor="green">IT6503</td>
+<td>BREAK</td>
+<td bgcolor="yellow">IT6501</td>
+<td bgcolor="pink">CS6551</td>
+<td bgcolor="orange">IT6502</td>
+<td>LUNCH</td>
+<td bgcolor="orange">IT6502</td>
+<td bgcolor="red">EC6801</td>
+</tr>
+
+<table align="center" border="2"> 
+<br><br>
+
+<th>S.NO</th>
+<th>SUB CODE</th>
+<th>SUBJECT NAME</th>
+<th>FACULTY NAME</th>
+
+<tr>
+<td>1</td>
+<td bgcolor="pink">CS6551</td>
+<td>Computer Networks</td>
+<td>Prof.S.Pramila</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td bgcolor="yellow">IT6501</td>
+<td>Graphics And Multimedia</td>
+<td>Ms.M.Leela</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td bgcolor="brown">CS6502</td>
+<td>Object Oriented Analysis And Design</td>
+<td>Ms.R.Abirami</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td bgcolor="orange">IT6502</td>
+<td>Digital Signal Processing</td>
+<td>Ms.Vanathi</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td bgcolor="green">IT6503</td>
+<td>Web Programming</td>
+<td>Mr.M.Ashok</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td bgcolor="red">EC6801</td>
+<td>Wireless Communication</td>
+<td>Ms.Arunajayasree</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td bgcolor="blue">IT6511</td>
+<td>Networks Lab</td>
+<td>Prof.S.Pramila</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td bgcolor="blue">IT6512</td>
+<td>Web Programming Lab</td>
+<td>Mr.M.Ashok</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td bgcolor="blue">IT6513</td>
+<td>Case Tools Laboratory</td>
+<td>Ms.R.Abirami/Ms.Rebekah</td>
+</tr>
+
+</table>
+</body>
+</html>
