@@ -1,0 +1,18 @@
+<html>
+<body>
+<audio id="AudioPlayer">
+<source src="nitkhair.mp3" type="audio/MP3">
+</audio>
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button>
+<script>
+var x = document.getElementById("AudioPlayer");
+function playAudio() { 
+    x.play(); 
+} 
+function pauseAudio() { 
+    x.pause(); 
+}
+</script>
+</body>
+</html>
