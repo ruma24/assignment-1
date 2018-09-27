@@ -1,0 +1,37 @@
+<html>
+<head>
+<h1>QUIZ</h1>
+</head>
+<body>
+<pid="demo"></p>
+<form
+<p>1.Dhoni is the captin of cricket team</p> 
+<input id="q1" type="radio" value="gender">True
+<input id="q12" type="radio" value="gender">False
+<p>2.The first President of india is Prathibapatel</p> 
+<input id="q2" type="radio" value="gender">True
+<input id="q22"type="radio" value="gender">False
+<p>3.Tajmahal was build by Akbar</p> 
+<input id="q3" type="radio" value="gender">True
+<input id="q32" type="radio" value="gender">False
+<p>4.elephant is the worlds largest animal </p> 
+<input id="q4" type="radio" value="gender">True
+<input id="q42" type="radio" value="gender">False
+<p>5.Cheetah is the slowest running element</p> 
+<input id="q5" type="radio" value="gender">True
+<input id="q52" type="radio" value="gender">False
+<br><button onclick="f1()">submit</button></br>
+<script>
+function f1()
+{
+var count=0;
+if(q1.checked){count=count+1;}
+if(q2.checked){count=count+1;}
+if(q32.checked){count=count+1;}
+if(q4.checked){count=count+1;}
+if(q5.checked){count=count+1;}
+document.write("Hello,your Result out of 5 is:"+count);
+}
+</script>
+</body>
+</html>
