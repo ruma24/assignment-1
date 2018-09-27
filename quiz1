@@ -1,0 +1,23 @@
+<html>
+<head>
+<h1>Form Login</h1>
+</head>
+<body>
+<form>
+Username:<input type="text" name="username"><br>
+Password:<input type="password" name="*"><br>
+<input type="button" value="login" onclick="login()">
+<script>
+function login()
+{
+window.open("quiz1.html");
+}
+</script>
+</form>
+</body>
+</html>
+
+
+
+
+
