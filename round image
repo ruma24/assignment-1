@@ -1,0 +1,14 @@
+<html>
+<head>
+<h1>Image</h1>
+<title>My Rounded image </title>
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+<img src="mypic.jpg" width="200" height="100">
+</body>
+</html>
